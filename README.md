@@ -1,2 +1,2 @@
-# Pemindah-File-1.0
+# Pemindah-File
 Sebuah software untuk mempermudah dalam mengoraganisir File
