@@ -79,9 +79,10 @@ Bisa Baca Artikel/Screenshot Di bawah :
 
 - Lalu isi Judul kendala
 ![error2](/images/error2.png)
-![error3](/images/error3.png)
 
 - Kemudian tulis Komentar
+![error3](/images/error3.png)
+
 - Jika sudah selesai menuulis, Klik "**Submit new issue**"
 
 ![error4](/images/error4.png)
