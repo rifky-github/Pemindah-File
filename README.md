@@ -61,7 +61,7 @@ Bisa Baca Artikel/Screenshot Di bawah :
 
 ![Edge2](/images/Screenshot%20(218).png)
 
-## Jika keluar Dialog Seperti ini
+## Jika pada saat menjalankan software keluar Dialog Seperti ini
 ![WP](/images/WindowsProtected.png)
 
 - Klik tulisan "**More Info**"
