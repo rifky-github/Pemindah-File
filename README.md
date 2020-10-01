@@ -1,6 +1,6 @@
 # Pemindah File :file_folder:
 
-Sebuah software berbentuk "command prompt/CMD/Batch" yang bertujuan untuk mempermudah dalam mengorganisir File :open_file_folder:	
+Sebuah software berbasis "Command Prompt/CMD/Batch" yang bertujuan untuk mempermudah dalam mengorganisir File :open_file_folder:	
 
 ## Tampilan :desktop_computer:
 
