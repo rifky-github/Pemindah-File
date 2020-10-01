@@ -65,9 +65,11 @@ Bisa Baca Artikel/Screenshot Di bawah :
 ![WP](/images/WindowsProtected.png)
 
 - Klik tulisan "**More Info**"
+
 ![WP](/images/WindowsProtected2.png)
 
 -Lalu Klik Tombol "**Run Anyway**"
+
 ![WP](/images/WindowsProtected3.png)
 
 
