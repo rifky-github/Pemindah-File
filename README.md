@@ -61,6 +61,16 @@ Bisa Baca Artikel/Screenshot Di bawah :
 
 ![Edge2](/images/Screenshot%20(218).png)
 
+## Jika keluar Dialog Seperti ini
+![WP](/images/WindowsProtected.png)
+
+- Klik tulisan "**More Info**"
+![WP](/images/WindowsProtected2.png)
+
+-Lalu Klik Tombol "**Run Anyway**"
+![WP](/images/WindowsProtected3.png)
+
+
 ## Jika ada kendala/error/bug :
 - Klik tulisan "**Issues**"
 ![error1](/images/error1.png)
