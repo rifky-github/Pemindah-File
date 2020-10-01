@@ -61,6 +61,18 @@ Bisa Baca Artikel/Screenshot Di bawah :
 
 ![Edge2](/images/Screenshot%20(218).png)
 
+## Jika ada kendala/error/bug :
+- Klik tulisan "**Issues**"
+![error1](/images/error1.png)
+
+- Lalu isi Judul kendala
+![error2](/images/error2.png)
+![error3](/images/error3.png)
+
+- Kemudian tulis Komentar
+- Jika sudah selesai menuulis, Klik "**Submit new issue**"
+
+![error4](/images/error4.png)
 
 ## Software ini dibuat oleh :
 
